@@ -1,7 +1,0 @@
-C:\Users\wschr\source\repos\SampleWebApi\SampleWebApi\obj\Release\netcoreapp3.1\PubTmp\Out\SampleWebApi.exe
-C:\Users\wschr\source\repos\SampleWebApi\SampleWebApi\obj\Release\netcoreapp3.1\PubTmp\Out\appsettings.Development.json
-C:\Users\wschr\source\repos\SampleWebApi\SampleWebApi\obj\Release\netcoreapp3.1\PubTmp\Out\appsettings.json
-C:\Users\wschr\source\repos\SampleWebApi\SampleWebApi\obj\Release\netcoreapp3.1\PubTmp\Out\SampleWebApi.dll
-C:\Users\wschr\source\repos\SampleWebApi\SampleWebApi\obj\Release\netcoreapp3.1\PubTmp\Out\SampleWebApi.deps.json
-C:\Users\wschr\source\repos\SampleWebApi\SampleWebApi\obj\Release\netcoreapp3.1\PubTmp\Out\SampleWebApi.runtimeconfig.json
-C:\Users\wschr\source\repos\SampleWebApi\SampleWebApi\obj\Release\netcoreapp3.1\PubTmp\Out\SampleWebApi.pdb
